@@ -1,0 +1,23 @@
+name: Contribution Pulse
+
+on:
+  schedule:
+    - cron: "0 18 * * *"   # runs once a day
+  workflow_dispatch:        # lets you run it by hand
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate animated contribution graph
+        run: python3 contrib_ripple.py --user "${{ github.repository_owner }}" --out contrib-ripple.svg
+      - name: Commit and push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add contrib-ripple.svg
+          git diff --cached --quiet || (git commit -m "update contribution pulse" && git push)
