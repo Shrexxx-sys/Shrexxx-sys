@@ -28,45 +28,11 @@ I like making apps that are fun to use and also solve a real problem. Right now 
 
 ## projects
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### AI ScamShield
-Paste a suspicious message and it tells you how risky it looks, and which phrases gave it away.
-
-- React frontend with risk levels
-- Flask backend
-- TF-IDF + Logistic Regression classifier
-- Exploring the Gemini API
-
-`React` `Flask` `Scikit-learn` `SQLite`
-
-</td>
-<td width="33%" valign="top">
-
-### BachatBuddy
-A planning platform idea for Indian students: budgeting, tracking expenses, and understanding where the money goes.
-
-- Currently a concept
-
-`Project concept`
-
-</td>
-<td width="33%" valign="top">
-
-### Smart Parking Monitor
-An IoT system that senses whether a parking spot is taken and shows what's available.
-
-- ESP32 + IR obstacle sensors
-- Blynk for monitoring
-- LED indicators
-
-`ESP32` `Arduino IDE` `Blynk`
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="card-scamshield.svg" width="32%" alt="AI ScamShield" />
+  <img src="card-bachatbuddy.svg" width="32%" alt="BachatBuddy" />
+  <img src="card-smartparking.svg" width="32%" alt="Smart Parking Monitor" />
+</p>
 
 ## also
 
@@ -86,15 +52,17 @@ An IoT system that senses whether a parking spot is taken and shows what's avail
   <img src="https://streak-stats.demolab.com?user=Shrexxx-sys&theme=github-dark-blue&hide_border=true&background=0d1117" />
 </p>
 
+## contributions
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrexxx-sys&bg_color=0d1117&color=79c0ff&line=a371f7&point_color=ffffff&area=true&area_color=a371f7&hide_border=true" width="100%" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D contribution graph" />
 </p>
 
 ## connect
 
 <p>
   <a href="mailto:daveshrey13@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/Shreyd_"><img src="https://img.shields.io/badge/LeetCode-161b22?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
+  <a href="https://leetcode.com/u/Shrey_"><img src="https://img.shields.io/badge/LeetCode-161b22?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2a44,100:3b2a5c&height=110&section=footer" width="100%" />
