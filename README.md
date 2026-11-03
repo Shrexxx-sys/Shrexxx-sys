@@ -94,7 +94,7 @@ An IoT system that senses whether a parking spot is taken and shows what's avail
 
 <p>
   <a href="mailto:daveshrey13@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/Shrey_"><img src="https://img.shields.io/badge/LeetCode-161b22?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
+  <a href="https://leetcode.com/u/Shreyd_"><img src="https://img.shields.io/badge/LeetCode-161b22?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2a44,100:3b2a5c&height=110&section=footer" width="100%" />
