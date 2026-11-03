@@ -1,83 +1,68 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 330" width="900" height="330" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo1MTE4ZjVhMS0xMzQwLTQ2ZGQtOTk4YS1lZjljZTVkZDk2YWIAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaNCwAIf+dqnmXajMsNY/9HYAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo0MDg5MzhlYy05ZDBmLTQwNDItYjE5Mi0zN2FkNjk5NjYzNTlscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo+4AGL8X8JPUH5PThAHslfQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggTnGefoaYAno6J+1ynUMJFYdw1SXCIGUik34FT7LXie6kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaDtr67yz/Agl+VjEgCMWj7wAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCAIp2boXSZrgAOZFLKyto1V2O6IibZZoJHRLCOOnhAN/mRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiWZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjUxMThmNWExLTEzNDAtNDZkZC05OThhLWVmOWNlNWRkOTZhYi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjI2NzFiNTE3LTNmMTgtNGM5Ni1hNmIyLWQ5NDZlY2VkY2MyYnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBOcZ5+hpgCejon7XKdQwkVh3DVJcIgZSKTfgVPsteJ7qJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggPCeNAsU18eNobRNfScFjxv3/EBmQC0YBm4VoyL0HXIaiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggBEroXRd/4As8K2GP2paBf2fhg4yxFTUpYiI492ctumd0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQG5redIcdUffYx+l/gKUY2T4/KCenDOlbiaiDSehBZOei6UNvBWmgRXmwE0FEvGD97fg6qCV7jXwwWOxTX1BVuM=</c2pa:manifest></metadata>
-<style>
-.bg{fill:#0d1117}
-.mono{font-family:'Fira Code','SFMono-Regular',Menlo,Consolas,monospace;font-size:14px}
-.sans{font-family:'Segoe UI',-apple-system,Helvetica,Arial,sans-serif}
-@keyframes float1{0%,100%{transform:translate(0,0)}50%{transform:translate(40px,-25px)}}
-@keyframes float2{0%,100%{transform:translate(0,0)}50%{transform:translate(-45px,20px)}}
-@keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.35;transform:scale(1.5)}}
-@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
-@keyframes fade{0%{opacity:1}94%{opacity:1}98%{opacity:0}100%{opacity:0}}
-@keyframes rise{0%{opacity:0;transform:translateY(14px)}100%{opacity:1;transform:translateY(0)}}
-.o1{animation:float1 9s ease-in-out infinite}
-.o2{animation:float2 11s ease-in-out infinite}
-.dot{transform-box:fill-box;transform-origin:center;animation:pulse 2s ease-in-out infinite}
-.cur{animation:blink 1s steps(1) infinite}
-.term{animation:fade 14s linear infinite}
-.r1{animation:rise .9s ease-out both}
-.r2{animation:rise .9s .25s ease-out both}
-.r3{animation:rise .9s .5s ease-out both}
-.r4{animation:rise .9s .75s ease-out both}
-@keyframes t0{0%,3%{transform:translateX(0)}9%,94%{transform:translateX(360px)}100%{transform:translateX(0)}}
-.c0{animation:t0 14s steps(10) infinite}
-@keyframes t1{0%,10%{transform:translateX(0)}19%,94%{transform:translateX(360px)}100%{transform:translateX(0)}}
-.c1{animation:t1 14s steps(29) infinite}
-@keyframes t2{0%,22%{transform:translateX(0)}30%,94%{transform:translateX(360px)}100%{transform:translateX(0)}}
-.c2{animation:t2 14s steps(17) infinite}
-@keyframes t3{0%,31%{transform:translateX(0)}43%,94%{transform:translateX(360px)}100%{transform:translateX(0)}}
-.c3{animation:t3 14s steps(30) infinite}
-@keyframes t4{0%,47%{transform:translateX(0)}56%,94%{transform:translateX(360px)}100%{transform:translateX(0)}}
-.c4{animation:t4 14s steps(18) infinite}
-@keyframes t5{0%,57%{transform:translateX(0)}72%,94%{transform:translateX(360px)}100%{transform:translateX(0)}}
-.c5{animation:t5 14s steps(27) infinite}
-</style>
-<defs>
-  <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#79c0ff"/><stop offset=".55" stop-color="#a371f7"/><stop offset="1" stop-color="#f778ba"/>
-  </linearGradient>
-  <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="38"/></filter>
-  <clipPath id="tclip"><rect x="480" y="50" width="390" height="250" rx="12"/></clipPath>
-  <clipPath id="frame"><rect width="900" height="330" rx="16"/></clipPath>
-</defs>
-<g clip-path="url(#frame)">
-<rect class="bg" width="900" height="330"/>
-<g filter="url(#blur)">
-  <circle class="o1" cx="130" cy="270" r="95" fill="#1f6feb" opacity=".35"/>
-  <circle class="o2" cx="520" cy="60" r="85" fill="#8957e5" opacity=".28"/>
-  <circle class="o1" cx="820" cy="290" r="80" fill="#db61a2" opacity=".18"/>
-</g>
-<rect width="900" height="330" fill="none" stroke="#30363d" rx="16"/>
+<p align="center">
+  <img src="hero.svg" alt="Shrey - CSE undergraduate" width="100%" />
+</p>
 
-<text class="sans r1" x="50" y="122" font-size="84" font-weight="700" fill="url(#name)">Shrey</text>
-<text class="sans r2" x="52" y="168" font-size="19" fill="#c9d1d9">CSE undergraduate · India</text>
-<text class="sans r3" x="52" y="198" font-size="15" fill="#8b949e">full-stack · AI · problem solving</text>
+<p align="center">
+  <img src="divider.svg" width="100%" alt="" />
+</p>
 
-<g class="r4">
-  <rect x="52" y="232" width="196" height="32" rx="16" fill="#0d1117" fill-opacity=".6" stroke="#30363d"/>
-  <circle class="dot" cx="72" cy="248" r="4.5" fill="#3fb950"/>
-  <text class="sans" x="87" y="253" font-size="13" fill="#c9d1d9">open to internships</text>
-</g>
+## about
 
-<rect x="480" y="50" width="390" height="250" rx="12" fill="#161b22" stroke="#30363d"/>
-<path d="M480 84 H870" stroke="#30363d"/>
-<circle cx="500" cy="67" r="5.5" fill="#ff5f56"/>
-<circle cx="520" cy="67" r="5.5" fill="#ffbd2e"/>
-<circle cx="540" cy="67" r="5.5" fill="#27c93f"/>
-<text class="mono" x="675.0" y="72" font-size="12" fill="#6e7681" text-anchor="middle">shrey@dev: ~</text>
+I'm a B.Tech Computer Science student from India, heading into my third year. I learn by building, so most of what I know comes from projects: working out how things run, breaking them, and fixing them.
 
-<g clip-path="url(#tclip)"><g class="term">
-<text class="mono" x="506" y="128"><tspan fill="#7ee787">~ $ </tspan><tspan fill="#e6edf3">whoami</tspan></text>
-<rect class="c0" x="504" y="110" width="370" height="26" fill="#161b22"/>
-<text class="mono" x="506" y="158" fill="#79c0ff">shrey · CSE undergrad · India</text>
-<rect class="c1" x="504" y="140" width="370" height="26" fill="#161b22"/>
-<text class="mono" x="506" y="188"><tspan fill="#7ee787">~ $ </tspan><tspan fill="#e6edf3">cat stack.txt</tspan></text>
-<rect class="c2" x="504" y="170" width="370" height="26" fill="#161b22"/>
-<text class="mono" x="506" y="218" fill="#79c0ff">python · react · flask · esp32</text>
-<rect class="c3" x="504" y="200" width="370" height="26" fill="#161b22"/>
-<text class="mono" x="506" y="248"><tspan fill="#7ee787">~ $ </tspan><tspan fill="#e6edf3">./build --ship</tspan></text>
-<rect class="c4" x="504" y="230" width="370" height="26" fill="#161b22"/>
-<text class="mono" x="506" y="278" fill="#79c0ff">shipping practical projects<tspan class="cur" fill="#58a6ff"> ▌</tspan></text>
-<rect class="c5" x="504" y="260" width="370" height="26" fill="#161b22"/>
-</g></g>
-</g>
-</svg>
+I like making apps that are fun to use and also solve a real problem. Right now I'm into full-stack development, AI, and getting sharper at problem solving.
+
+<p align="center">
+  <img src="marquee.svg" width="100%" alt="Technologies I use" />
+</p>
+
+## stack
+
+| | |
+|---|---|
+| **building with** | <img src="https://skillicons.dev/icons?i=python,js,react,html,css,tailwind,flask,supabase,firebase,mysql,sqlite&theme=dark" align="center" /> |
+| **learning** | <img src="https://skillicons.dev/icons?i=c,java,nodejs&theme=dark" align="center" /> |
+| **hardware + tools** | <img src="https://skillicons.dev/icons?i=arduino,git,github,vscode&theme=dark" align="center" /> |
+
+<img src="divider.svg" width="100%" alt="" />
+
+## projects
+
+<p align="center">
+  <img src="card-scamshield.svg" width="32%" alt="AI ScamShield" />
+  <img src="card-bachatbuddy.svg" width="32%" alt="BachatBuddy" />
+  <img src="card-smartparking.svg" width="32%" alt="Smart Parking Monitor" />
+</p>
+
+## also
+
+- DSA in C, plus LeetCode: binary search, recursion, arrays and strings
+- Learning: full-stack web development, backend and databases, software engineering basics, AI and ML
+
+<img src="divider.svg" width="100%" alt="" />
+
+## stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Shrexxx-sys&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=79c0ff&icon_color=a371f7" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrexxx-sys&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=79c0ff" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shrexxx-sys&theme=github-dark-blue&hide_border=true&background=0d1117" />
+</p>
+
+## contributions
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D contribution graph" />
+</p>
+
+## connect
+
+<p>
+  <a href="mailto:daveshrey13@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Shrey_"><img src="https://img.shields.io/badge/LeetCode-161b22?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2a44,100:3b2a5c&height=110&section=footer" width="100%" />
