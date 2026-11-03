@@ -1,98 +1,100 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=150&section=header&text=Shrey&fontSize=46&fontColor=e6edf3&fontAlignY=42&desc=CSE%20undergraduate%20%C2%B7%20Learning%20by%20building&descSize=16&descColor=8b949e&descAlignY=68" />
+  <img src="hero.svg" alt="Shrey - CSE undergraduate" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Full-stack+%C2%B7+AI+%C2%B7+Problem+solving;Building+things+that+solve+real+problems;Open+to+internship+opportunities" alt="Typing animation" />
+  <img src="divider.svg" width="100%" alt="" />
 </p>
 
-## About
+## about
 
-I'm a B.Tech Computer Science student from India, heading into my third year. I learn best by building things, so most of what I know comes from projects: figuring out how systems work, breaking them, and fixing them.
+I'm a B.Tech Computer Science student from India, heading into my third year. I learn by building, so most of what I know comes from projects: working out how things run, breaking them, and fixing them.
 
-I like making apps that are interactive and good to look at, but that also solve an actual problem. Right now I'm focused on full-stack development, AI, and getting better at problem solving.
+I like making apps that are fun to use and also solve a real problem. Right now I'm into full-stack development, AI, and getting sharper at problem solving.
 
-## Tech stack
-
-**Working with**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,tailwind,flask&theme=dark" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=supabase,firebase,mysql,sqlite&theme=dark" />
+<p align="center">
+  <img src="marquee.svg" width="100%" alt="Technologies I use" />
 </p>
 
-**Learning and exploring**
+## stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,java,nodejs&theme=dark" />
-</p>
+| | |
+|---|---|
+| **building with** | <img src="https://skillicons.dev/icons?i=python,js,react,html,css,tailwind,flask,supabase,firebase,mysql,sqlite&theme=dark" align="center" /> |
+| **learning** | <img src="https://skillicons.dev/icons?i=c,java,nodejs&theme=dark" align="center" /> |
+| **hardware + tools** | <img src="https://skillicons.dev/icons?i=arduino,git,github,vscode&theme=dark" align="center" /> |
 
-**Hardware and tools**
+<img src="divider.svg" width="100%" alt="" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino,git,github,vscode&theme=dark" />
-</p>
+## projects
 
-ESP32 · IR sensors · Blynk
-
-## Projects
+<table>
+<tr>
+<td width="33%" valign="top">
 
 ### AI ScamShield
-An app that analyses suspicious messages and shows how risky they look, along with the phrases that raised the flag.
+Paste a suspicious message and it tells you how risky it looks, and which phrases gave it away.
 
-- React frontend with a risk level display and highlighted suspicious phrases
-- Flask backend connected to the frontend
-- Scam classifier using TF-IDF and Logistic Regression
-- Exploring Gemini API integration and scam-related knowledge bases
+- React frontend with risk levels
+- Flask backend
+- TF-IDF + Logistic Regression classifier
+- Exploring the Gemini API
 
-`React` `JavaScript` `Flask` `Python` `Scikit-learn` `Pandas` `NumPy` `SQLite` `Gemini API`
+`React` `Flask` `Scikit-learn` `SQLite`
 
-
----
+</td>
+<td width="33%" valign="top">
 
 ### BachatBuddy
-A financial planning platform idea for Indian students, built around budgeting, tracking expenses, and understanding where their money goes.
+A planning platform idea for Indian students: budgeting, tracking expenses, and understanding where the money goes.
+
+- Currently a concept
 
 `Project concept`
 
-
----
+</td>
+<td width="33%" valign="top">
 
 ### Smart Parking Monitor
-An IoT system that detects whether parking spaces are occupied and shows availability, built with an ESP32 and IR obstacle sensors, with Blynk for monitoring.
+An IoT system that senses whether a parking spot is taken and shows what's available.
 
-`ESP32` `Arduino IDE` `IR sensors` `Blynk` `LEDs`
+- ESP32 + IR obstacle sensors
+- Blynk for monitoring
+- LED indicators
 
+`ESP32` `Arduino IDE` `Blynk`
 
-## Also working on
+</td>
+</tr>
+</table>
 
-- Data structures and algorithms in C
-- LeetCode practice: binary search, recursion, arrays and strings
+## also
 
-## Currently learning
+- DSA in C, plus LeetCode: binary search, recursion, arrays and strings
+- Learning: full-stack web development, backend and databases, software engineering basics, AI and ML
 
-- Data structures and algorithms
-- Full-stack web development, and React in more depth
-- Backend development and databases
-- Software engineering fundamentals
-- AI and machine learning
+<img src="divider.svg" width="100%" alt="" />
 
-## GitHub stats
+## stats
 
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Shrexxx-sys&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrexxx-sys&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
-</p>
-
-## Connect
-
-<p>
-  <a href="mailto:daveshrey13@gmail.com"><img src="https://img.shields.io/badge/Email-30363d?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/Shrey_"><img src="https://img.shields.io/badge/LeetCode-30363d?style=flat-square&logo=leetcode&logoColor=FFA116" /></a>
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Shrexxx-sys&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=79c0ff&icon_color=a371f7" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrexxx-sys&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=79c0ff" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0d1117&height=60&section=footer" />
+  <img src="https://streak-stats.demolab.com?user=Shrexxx-sys&theme=github-dark-blue&hide_border=true&background=0d1117" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrexxx-sys&bg_color=0d1117&color=79c0ff&line=a371f7&point_color=ffffff&area=true&area_color=a371f7&hide_border=true" width="100%" />
+</p>
+
+## connect
+
+<p>
+  <a href="mailto:daveshrey13@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Shrey_"><img src="https://img.shields.io/badge/LeetCode-161b22?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2a44,100:3b2a5c&height=110&section=footer" width="100%" />
