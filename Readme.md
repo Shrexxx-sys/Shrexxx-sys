@@ -49,7 +49,7 @@ I like making apps that are fun to use and also solve a real problem. Right now 
 
 <p>
   <a href="mailto:daveshrey13@gmail.com"><img src="https://img.shields.io/badge/Email-E84A5F?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/Shrey_"><img src="https://img.shields.io/badge/LeetCode-FF847C?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Shreyd_"><img src="https://img.shields.io/badge/LeetCode-FF847C?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
 <p align="center">
