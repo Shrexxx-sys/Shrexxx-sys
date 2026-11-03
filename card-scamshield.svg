@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 240" width="300" height="240">
+<style>.s{font-family:'Segoe UI',-apple-system,Helvetica,Arial,sans-serif}@keyframes orbit{from{stroke-dashoffset:0}to{stroke-dashoffset:-1000}}.glow{animation:orbit 7s linear infinite}
+@keyframes sweep{0%{transform:translateX(0);opacity:0}6%{opacity:1}55%{transform:translateX(252px);opacity:1}60%,100%{transform:translateX(252px);opacity:0}}
+@keyframes hl1{0%,18%{opacity:0}26%,88%{opacity:.9}96%,100%{opacity:0}}@keyframes hl2{0%,38%{opacity:0}46%,88%{opacity:.9}96%,100%{opacity:0}}
+@keyframes fill{0%,56%{transform:scaleX(0)}72%,88%{transform:scaleX(1)}96%,100%{transform:scaleX(0)}}@keyframes lbl{0%,70%{opacity:0}76%,88%{opacity:1}96%,100%{opacity:0}}
+.sw{animation:sweep 6s ease-in-out infinite}.h1{animation:hl1 6s ease-in-out infinite}.h2{animation:hl2 6s ease-in-out infinite}
+.fl{transform-box:fill-box;transform-origin:left center;animation:fill 6s ease-in-out infinite}.lb{animation:lbl 6s ease-in-out infinite}</style>
+<defs><linearGradient id="gra" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#99B898"/><stop offset="1" stop-color="#FECEAB"/></linearGradient>
+<filter id="gla" x="-10%" y="-10%" width="120%" height="120%"><feGaussianBlur stdDeviation="2.2"/></filter>
+<clipPath id="vza"><rect x="18" y="88" width="264" height="104" rx="8"/></clipPath></defs>
+<rect x="1" y="1" width="298" height="238" rx="12" fill="#2A363B" stroke="#435259"/>
+<rect class="glow" x="1" y="1" width="298" height="238" rx="12" fill="none" stroke="url(#gra)" stroke-width="2.5" pathLength="1000" stroke-dasharray="150 850" filter="url(#gla)"/>
+<rect class="glow" x="1" y="1" width="298" height="238" rx="12" fill="none" stroke="url(#gra)" stroke-width="1.5" pathLength="1000" stroke-dasharray="150 850"/>
+<g transform="translate(18,17) scale(.95)" fill="#A3B2AB"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"/></g>
+<text class="s" x="42" y="31" font-size="17" font-weight="600" fill="#FECEAB">AI ScamShield</text>
+<text class="s" x="18" y="56" font-size="12" fill="#A3B2AB">Checks suspicious messages and shows</text><text class="s" x="18" y="73" font-size="12" fill="#A3B2AB">how risky they look.</text>
+<g clip-path="url(#vza)"><rect x="18" y="88" width="264" height="104" fill="#202A2E"/><rect x="30" y="102" width="190" height="7" rx="3.5" fill="#34444A"/><rect x="30" y="118" width="226" height="7" rx="3.5" fill="#34444A"/>
+<rect x="30" y="134" width="160" height="7" rx="3.5" fill="#34444A"/><rect x="30" y="150" width="204" height="7" rx="3.5" fill="#34444A"/>
+<rect class="h1" x="92" y="117" width="62" height="9" rx="4.5" fill="#E84A5F" opacity=".9"/><rect class="h2" x="40" y="149" width="74" height="9" rx="4.5" fill="#E84A5F" opacity=".9"/>
+<rect class="sw" x="26" y="94" width="3" height="68" rx="1.5" fill="#99B898" opacity="0"/>
+<rect x="30" y="172" width="170" height="6" rx="3" fill="#34444A"/><rect class="fl" x="30" y="172" width="170" height="6" rx="3" fill="#FF847C"/>
+<text class="s" x="208" y="179" font-size="11" fill="#7C8D86">risk</text><text class="s lb" x="236" y="179" font-size="11" font-weight="700" fill="#E84A5F">HIGH</text></g>
+<circle cx="22" cy="220" r="4" fill="#99B898"/><text class="s" x="32" y="224" font-size="12" fill="#A3B2AB">React</text><circle cx="85" cy="220" r="4" fill="#FECEAB"/><text class="s" x="95" y="224" font-size="12" fill="#A3B2AB">Flask</text><circle cx="148" cy="220" r="4" fill="#FF847C"/><text class="s" x="158" y="224" font-size="12" fill="#A3B2AB">Python</text></svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 240" width="300" height="240">
+<style>.s{font-family:'Segoe UI',-apple-system,Helvetica,Arial,sans-serif}@keyframes orbit{from{stroke-dashoffset:0}to{stroke-dashoffset:-1000}}.glow{animation:orbit 7s linear infinite}
+@keyframes grow{0%,10%{transform:scaleY(.12)}45%,80%{transform:scaleY(1)}100%{transform:scaleY(.12)}}@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+.b{transform-box:fill-box;transform-origin:bottom center;animation:grow 5s ease-in-out infinite}.b1{animation-delay:0s}.b2{animation-delay:.25s}.b3{animation-delay:.5s}.b4{animation-delay:.75s}.b5{animation-delay:1s}.coin{animation:bob 2.4s ease-in-out infinite}</style>
+<defs><linearGradient id="grb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FECEAB"/><stop offset="1" stop-color="#FF847C"/></linearGradient>
+<filter id="glb" x="-10%" y="-10%" width="120%" height="120%"><feGaussianBlur stdDeviation="2.2"/></filter>
+<clipPath id="vzb"><rect x="18" y="88" width="264" height="104" rx="8"/></clipPath></defs>
+<rect x="1" y="1" width="298" height="238" rx="12" fill="#2A363B" stroke="#435259"/>
+<rect class="glow" x="1" y="1" width="298" height="238" rx="12" fill="none" stroke="url(#grb)" stroke-width="2.5" pathLength="1000" stroke-dasharray="150 850" filter="url(#glb)"/>
+<rect class="glow" x="1" y="1" width="298" height="238" rx="12" fill="none" stroke="url(#grb)" stroke-width="1.5" pathLength="1000" stroke-dasharray="150 850"/>
+<g transform="translate(18,17) scale(.95)" fill="#A3B2AB"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"/></g>
+<text class="s" x="42" y="31" font-size="17" font-weight="600" fill="#FECEAB">BachatBuddy</text>
+<text class="s" x="18" y="56" font-size="12" fill="#A3B2AB">A money-planning idea for Indian</text><text class="s" x="18" y="73" font-size="12" fill="#A3B2AB">students. Currently a concept.</text>
+<g clip-path="url(#vzb)"><rect x="18" y="88" width="264" height="104" fill="#202A2E"/><path d="M28 170 H196" stroke="#435259"/><rect class="b b1" x="34" y="136" width="22" height="34" rx="4" fill="#99B898" opacity="0.50"/><rect class="b b2" x="68" y="118" width="22" height="52" rx="4" fill="#99B898" opacity="0.62"/><rect class="b b3" x="102" y="130" width="22" height="40" rx="4" fill="#99B898" opacity="0.74"/><rect class="b b4" x="136" y="104" width="22" height="66" rx="4" fill="#99B898" opacity="0.86"/><rect class="b b5" x="170" y="120" width="22" height="50" rx="4" fill="#99B898" opacity="0.98"/><g class="coin"><circle cx="238" cy="118" r="17" fill="#FECEAB"/><circle cx="238" cy="118" r="13" fill="none" stroke="#FF847C" stroke-width="1.5"/>
+<text class="s" x="238" y="124" font-size="17" font-weight="700" fill="#2A363B" text-anchor="middle">₹</text></g><text class="s" x="30" y="186" font-size="11" fill="#7C8D86">budget · track · plan</text></g>
+<circle cx="22" cy="220" r="4" fill="#A3B2AB"/><text class="s" x="32" y="224" font-size="12" fill="#A3B2AB">Project concept</text></svg>

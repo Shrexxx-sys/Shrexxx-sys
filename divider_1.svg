@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 6" width="900" height="6">
+<style>@keyframes slide{from{transform:translateX(0)}to{transform:translateX(-300px)}}.m{animation:slide 3.5s linear infinite}</style>
+<defs><linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="300" y2="0" spreadMethod="repeat">
+<stop offset="0" stop-color="#99B898" stop-opacity="0"/><stop offset=".3" stop-color="#99B898"/><stop offset=".55" stop-color="#FECEAB"/><stop offset=".8" stop-color="#FF847C"/><stop offset="1" stop-color="#FF847C" stop-opacity="0"/></linearGradient>
+<linearGradient id="f" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".15" stop-color="#fff"/><stop offset=".85" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<mask id="mk"><rect width="900" height="6" fill="url(#f)"/></mask></defs>
+<g mask="url(#mk)"><rect class="m" x="0" y="1.5" width="1200" height="3" rx="1.5" fill="url(#g)"/></g></svg>

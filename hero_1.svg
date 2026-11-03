@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 330" width="900" height="330">
+<style>
+.mono{font-family:'Fira Code','SFMono-Regular',Menlo,Consolas,monospace;font-size:14px}
+.sans{font-family:'Segoe UI',-apple-system,Helvetica,Arial,sans-serif}
+@keyframes float1{0%,100%{transform:translate(0,0)}50%{transform:translate(40px,-25px)}}
+@keyframes float2{0%,100%{transform:translate(0,0)}50%{transform:translate(-45px,20px)}}
+@keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.35;transform:scale(1.5)}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes fade{0%{opacity:1}94%{opacity:1}98%{opacity:0}100%{opacity:0}}
+@keyframes rise{0%{opacity:0;transform:translateY(14px)}100%{opacity:1;transform:translateY(0)}}
+.o1{animation:float1 9s ease-in-out infinite}.o2{animation:float2 11s ease-in-out infinite}
+.dot{transform-box:fill-box;transform-origin:center;animation:pulse 2s ease-in-out infinite}
+.cur{animation:blink 1s steps(1) infinite}.term{animation:fade 14s linear infinite}
+.r1{animation:rise .9s ease-out both}.r2{animation:rise .9s .25s ease-out both}
+.r3{animation:rise .9s .5s ease-out both}.r4{animation:rise .9s .75s ease-out both}
+@keyframes t0{0%,3%{transform:translateX(0)}9%,94%{transform:translateX(360px)}100%{transform:translateX(0)}}.c0{animation:t0 14s steps(10) infinite}
+@keyframes t1{0%,10%{transform:translateX(0)}19%,94%{transform:translateX(360px)}100%{transform:translateX(0)}}.c1{animation:t1 14s steps(29) infinite}
+@keyframes t2{0%,22%{transform:translateX(0)}30%,94%{transform:translateX(360px)}100%{transform:translateX(0)}}.c2{animation:t2 14s steps(17) infinite}
+@keyframes t3{0%,31%{transform:translateX(0)}43%,94%{transform:translateX(360px)}100%{transform:translateX(0)}}.c3{animation:t3 14s steps(30) infinite}
+@keyframes t4{0%,47%{transform:translateX(0)}56%,94%{transform:translateX(360px)}100%{transform:translateX(0)}}.c4{animation:t4 14s steps(18) infinite}
+@keyframes t5{0%,57%{transform:translateX(0)}72%,94%{transform:translateX(360px)}100%{transform:translateX(0)}}.c5{animation:t5 14s steps(27) infinite}
+</style>
+<defs>
+<linearGradient id="name" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FECEAB"/><stop offset=".55" stop-color="#FF847C"/><stop offset="1" stop-color="#E84A5F"/></linearGradient>
+<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="38"/></filter>
+<clipPath id="tclip"><rect x="480" y="50" width="390" height="250" rx="12"/></clipPath>
+<clipPath id="frame"><rect width="900" height="330" rx="16"/></clipPath></defs>
+<g clip-path="url(#frame)"><rect width="900" height="330" fill="#2A363B"/>
+<g filter="url(#blur)"><circle class="o1" cx="130" cy="270" r="95" fill="#99B898" opacity=".35"/><circle class="o2" cx="520" cy="60" r="85" fill="#FF847C" opacity=".28"/><circle class="o1" cx="820" cy="290" r="80" fill="#E84A5F" opacity=".22"/></g>
+<rect width="900" height="330" fill="none" stroke="#435259" rx="16"/>
+<text class="sans r1" x="50" y="122" font-size="84" font-weight="700" fill="url(#name)">Shrey</text>
+<text class="sans r2" x="52" y="168" font-size="19" fill="#E6DFD2">CSE undergraduate · India</text>
+<text class="sans r3" x="52" y="198" font-size="15" fill="#A3B2AB">full-stack · AI · problem solving</text>
+<g class="r4"><rect x="52" y="232" width="196" height="32" rx="16" fill="#202A2E" fill-opacity=".7" stroke="#435259"/><circle class="dot" cx="72" cy="248" r="4.5" fill="#99B898"/><text class="sans" x="87" y="253" font-size="13" fill="#E6DFD2">open to internships</text></g>
+<rect x="480" y="50" width="390" height="250" rx="12" fill="#202A2E" stroke="#435259"/>
+<path d="M480 84 H870" stroke="#435259"/>
+<circle cx="500" cy="67" r="5.5" fill="#E84A5F"/><circle cx="520" cy="67" r="5.5" fill="#FECEAB"/><circle cx="540" cy="67" r="5.5" fill="#99B898"/>
+<text class="mono" x="675.0" y="72" font-size="12" fill="#7C8D86" text-anchor="middle">shrey@dev: ~</text>
+<g clip-path="url(#tclip)"><g class="term">
+<text class="mono" x="506" y="128"><tspan fill="#99B898">~ $ </tspan><tspan fill="#F4EFE6">whoami</tspan></text>
+<rect class="c0" x="504" y="110" width="370" height="26" fill="#202A2E"/>
+<text class="mono" x="506" y="158" fill="#FECEAB">shrey · CSE undergrad · India</text>
+<rect class="c1" x="504" y="140" width="370" height="26" fill="#202A2E"/>
+<text class="mono" x="506" y="188"><tspan fill="#99B898">~ $ </tspan><tspan fill="#F4EFE6">cat stack.txt</tspan></text>
+<rect class="c2" x="504" y="170" width="370" height="26" fill="#202A2E"/>
+<text class="mono" x="506" y="218" fill="#FECEAB">python · react · flask · esp32</text>
+<rect class="c3" x="504" y="200" width="370" height="26" fill="#202A2E"/>
+<text class="mono" x="506" y="248"><tspan fill="#99B898">~ $ </tspan><tspan fill="#F4EFE6">./build --ship</tspan></text>
+<rect class="c4" x="504" y="230" width="370" height="26" fill="#202A2E"/>
+<text class="mono" x="506" y="278" fill="#FECEAB">shipping practical projects<tspan class="cur" fill="#FF847C"> ▌</tspan></text>
+<rect class="c5" x="504" y="260" width="370" height="26" fill="#202A2E"/>
+</g></g></g></svg>
